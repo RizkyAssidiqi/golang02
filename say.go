@@ -1,5 +1,5 @@
 package P02
 
-func NamaSaya() string {
-	return "Nama Saya Rizky Assidiqi dan Afridah"
+func NamaSaya(name string) string {
+	return name + " Rizky Assidiqi dan Afridah"
 }
